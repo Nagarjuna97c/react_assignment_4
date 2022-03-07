@@ -1,0 +1,32 @@
+.match-container {
+  padding: 100px 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #a6c0fe 0%, #f68084 100%);
+}
+
+.team-data-container {
+  width: 90%;
+  max-width: 850px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.image3 {
+  border-radius: 8px;
+}
+
+.heading2 {
+  color: #ffffff;
+  font-size: 28px;
+}
+
+.matches-data {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}

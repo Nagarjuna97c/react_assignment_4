@@ -1,0 +1,22 @@
+.link-container {
+  height: 150px;
+  text-decoration: none;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff33;
+  border-radius: 8px;
+  column-gap: 15px;
+}
+
+.heading1 {
+  font-size: 25px;
+  color: #ffffff;
+}
+
+.image2 {
+  height: 100px;
+  width: 85px;
+  justify-self: end;
+}

@@ -1,0 +1,36 @@
+.match-card {
+  height: 500px;
+  width: 270px;
+  background-color: #1e293b;
+  border-radius: 8px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 4fr 1fr 1fr 2fr;
+  row-gap: 10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #ffffff;
+  margin: 20px 0;
+  padding: 10px;
+}
+
+.image4 {
+  height: 145px;
+  justify-self: center;
+  align-self: center;
+}
+
+.heading3 {
+  font-size: 28px;
+}
+
+.won {
+  font-size: 35px;
+  color: #18ed66;
+}
+
+.lost {
+  font-size: 35px;
+  color: #e31a1a;
+}
